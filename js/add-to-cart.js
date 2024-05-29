@@ -1,3 +1,5 @@
+//add to cart
+
 document.addEventListener('DOMContentLoaded', function() {
     const addToCartButtons = document.querySelectorAll('.add-to-cart');
     let clickCount = 0;
